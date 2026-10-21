@@ -1,0 +1,17 @@
+{
+	"geode": "5.11.2",
+	"gd": {
+		"win": "2.2081",
+		"android": "2.2081",
+		"mac": "2.2081",
+		"ios": "2.2081"
+	},
+	"id": "jing.random-level",
+	"name": "Random Level",
+	"version": "v1.1.0",
+	"developer": "Jing",
+	"description": "Roll a random online level by difficulty and length, or practice sightreading on generated layouts.",
+	"dependencies": {
+		"geode.node-ids": ">=v1.23.3"
+	}
+}
